@@ -31,4 +31,4 @@ Chinese Calendar Converter
 
 Please check out our web page at
 
-http://magiclen.org/ChineseCalendarConverter/
+http://magiclen.org/chinese-calendar-converter/
